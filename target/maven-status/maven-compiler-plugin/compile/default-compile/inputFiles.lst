@@ -1,0 +1,10 @@
+C:\mongo\MongoIcfesGabo-1\src\main\java\com\mongodbicfesgabo\app\controller\ControllerRestCoordinador.java
+C:\mongo\MongoIcfesGabo-1\src\main\java\com\mongodbicfesgabo\app\controller\ControllerWebCompartido.java
+C:\mongo\MongoIcfesGabo-1\src\main\java\com\mongodbicfesgabo\app\controller\ControllerWebCoordinador.java
+C:\mongo\MongoIcfesGabo-1\src\main\java\com\mongodbicfesgabo\app\controller\ControllerWebEstudiante.java
+C:\mongo\MongoIcfesGabo-1\src\main\java\com\mongodbicfesgabo\app\entity\Coordinador.java
+C:\mongo\MongoIcfesGabo-1\src\main\java\com\mongodbicfesgabo\app\entity\Estudiante.java
+C:\mongo\MongoIcfesGabo-1\src\main\java\com\mongodbicfesgabo\app\exception\NotFoundException.java
+C:\mongo\MongoIcfesGabo-1\src\main\java\com\mongodbicfesgabo\app\MongoIcfesGabo1Application.java
+C:\mongo\MongoIcfesGabo-1\src\main\java\com\mongodbicfesgabo\app\repository\CoordinadorRepository.java
+C:\mongo\MongoIcfesGabo-1\src\main\java\com\mongodbicfesgabo\app\repository\EstudianteRepository.java
